@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9838","Varify the Filter product purchase for Standard User","","Mon May 12 21:00:25 GMT+06:00 2025","passed","Mon May 12 21:00:35 GMT+06:00 2025","","SauceDemo website automation test suite","",""
+"","8899","Varify the purchase for Standard User","","Mon May 12 21:00:16 GMT+06:00 2025","passed","Mon May 12 21:00:25 GMT+06:00 2025","","SauceDemo website automation test suite","",""
+"","5658","Varify the Lock User error message","","Mon May 12 21:00:10 GMT+06:00 2025","passed","Mon May 12 21:00:16 GMT+06:00 2025","","SauceDemo website automation test suite","",""
