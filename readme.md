@@ -62,7 +62,7 @@ npm run getReport
 Use it to generate the Allure report and open it in your browser.
 
 ## Project Structure
-
+```bash
 saucedemo_automation_testing/
 │
 ├── allure-report/         			# Contains generated Allure test reports (HTML format) for visualizing test results
@@ -95,7 +95,7 @@ saucedemo_automation_testing/
 ├── package.json           		    # Defines project metadata, dependencies, and scripts (npm configuration)
 ├── README.md              		    # Project documentation (setup instructions, usage, etc.)
 └── wdio.conf.js           		    # WebdriverIO configuration file (test runner settings, capabilities, suites etc.)
-
+```
 ## Configuration
 
 All test and browser configurations are in `wdio.conf.js`.
